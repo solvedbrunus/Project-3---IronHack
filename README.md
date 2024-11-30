@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Project 3 IronHack| - NLP 
+# Project 3 IronHack| - NLP
 
 ## Project Goals
 
@@ -26,6 +26,7 @@ The Top 3 products and key differences between them. When should a consumer choo
 Top complaints for each of those products
 What is the worst product in the category and why you should never buy it
 More ideas: Look at the Consumer Reviews website, The Verge, The Wirecutter
- 
 
 ## Submission
+
+Date of submission 10th of December.
