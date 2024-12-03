@@ -5,3 +5,15 @@ main.ipynb
 archive.zip
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
+may19_train.csv
+may19_test.csv
+may19_cleaned.csv
+may19_cleaned_bert.csv
+main_train.csv
+main_test.csv
+main_cleaned.csv
+main_cleaned_bert.csv
+base_train.csv
+base_test.csv
+base_cleaned.csv
+base_cleaned_bert.csv
