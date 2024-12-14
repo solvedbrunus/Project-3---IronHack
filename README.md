@@ -21,8 +21,5 @@ The dataset categories are too sparse. Create a model to group all reviews into 
 
 Create a model which, for each product category, generates a short article, like a blogpost reviewer would write, to help customers choose the best one for them.
 
-Here’s a suggestion of what the model may output
-The Top 3 products and key differences between them. When should a consumer choose one or another?
-Top complaints for each of those products
-What is the worst product in the category and why you should never buy it
-More ideas: Look at the Consumer Reviews website, The Verge, The Wirecutter
+## Conclusion 
+This project was quite challenging. I encountered several problems and spent a significant amount of time working with unfamiliar techniques. As the deadline approached, I simplified my approach to save time. While I achieved results that were acceptable and aligned with my goals for the summarization model, there is considerable room for improvement. Specifically, I aim to enhance the training part of the code and refine the clustering process to achieve better results.
