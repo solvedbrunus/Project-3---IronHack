@@ -23,3 +23,7 @@ Create a model which, for each product category, generates a short article, like
 
 ## Conclusion 
 This project was quite challenging. I encountered several problems and spent a significant amount of time working with unfamiliar techniques. As the deadline approached, I simplified my approach to save time. While I achieved results that were acceptable and aligned with my goals for the summarization model, there is considerable room for improvement. Specifically, I aim to enhance the training part of the code and refine the clustering process to achieve better results.
+
+## Blog Post
+
+https://solvedbrunus.blogspot.com/2024/12/how-transformers-revolutionize.html
